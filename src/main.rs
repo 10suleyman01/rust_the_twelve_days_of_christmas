@@ -1,5 +1,3 @@
-
-
 fn main() {
     let text = [
         "И куропатку на грушевом дереве",
@@ -33,15 +31,13 @@ fn main() {
 
 
     for i in 0..text.len() {
-
-        let next = i + 1;
         let day = days[i];
 
         if day != "" {
             println!("{} {} день Рождества", if day == days[1] { "Во" } else { "В" }, day);
             println!("Моя любимая отправила мне:");
 
-            for idx in (0..next).rev() {
+            for idx in (0..i + 1).rev() {
                 let mut concrete = String::from(text[idx]);
                 if i < 1 {
                     concrete = concrete.replace("И к", "К");

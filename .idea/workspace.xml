@@ -7,7 +7,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586181bb-d476-43fc-a25d-c6736c6e5672" name="Changes" comment="Initial commit" />
+    <list default="true" id="586181bb-d476-43fc-a25d-c6736c6e5672" name="Changes" comment="текст рождественской песни (The Twelve Days of Christmas)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +106,8 @@
       <workItem from="1669390831726" duration="4795000" />
       <workItem from="1669395667227" duration="6614000" />
       <workItem from="1669464039203" duration="1327000" />
-      <workItem from="1669490474266" duration="1054000" />
+      <workItem from="1669490474266" duration="1750000" />
+      <workItem from="1669536086489" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669491269135</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669491269135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="текст рождественской песни (The Twelve Days of Christmas)">
+      <created>1669491796339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669491796339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="текст рождественской песни (The Twelve Days of Christmas)" />
+    <option name="LAST_COMMIT_MESSAGE" value="текст рождественской песни (The Twelve Days of Christmas)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
